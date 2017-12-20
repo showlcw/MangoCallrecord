@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--theme color-->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorPrimaryDarkNight">#000000</color>
+    <color name="colorAccent">#00BCD4</color>
+
+    <!--navigation header-->
+
+    <!--camera color-->
+
+    <!--swipeRefreshLayout color-->
+    <color name="recycler_color1">#bc9191</color>
+    <color name="recycler_color2">#edd36a</color>
+    <color name="recycler_color3">#82c1f9</color>
+    <color name="recycler_color4">#68d661</color>
+
+
+    <color name="google_blue">#4285F4</color>
+    <color name="google_red">#EA4335</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+
+    <!--common color-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- manager item color -->
+
+    <color name="red">#d01717</color>
+
+
+    <color name="gray_e4">#E4E4E4</color>
+    <color name="gray_33">#333333</color>
+    <color name="gray_66">#666666</color>
+    <color name="gray_99">#999999</color>
+    <color name="gray_88">#888888</color>
+    <color name="gray_55">#555555</color>
+
+
+</resources>
